@@ -1,4 +1,4 @@
-$(call inherit-product, vendor/fusion/config/common_full_phone.mk)
+$(call inherit-product, vendor/fusion/config/common_phone.mk)
 
 $(call inherit-product, vendor/fusion/config/nfc_enhanced.mk)
 
